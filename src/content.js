@@ -20,7 +20,7 @@ function pageLoad(contentContainer) {
     restaurantDescription.innerHTML = ` Kusheyna is owned by the beautiful and talented <span class="chef-name">Ms. Hershey May Yabut.</span>
             She started this business as it was her dream to open her own restaurant. 
             It's been a long journey for her, but with her dedication and hardwork and her loyal customers,
-            through not only the word of mouth but also in sorts of platform, Kusheyna became a World Wide must dine restaurant.`
+            through not only the word of mouth but also in all sorts of platform, Kusheyna became a World Wide must dine restaurant.`
     location.innerText = 'Visit us at Laoag City, Ilocos Norte!';
 
     container.appendChild(headline);
